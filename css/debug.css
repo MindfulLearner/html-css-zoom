@@ -1,0 +1,31 @@
+/*
+DEBUG
+*/
+/* debug-header */
+.debug > .header-container {
+    border: 1px dashed #f00;
+    background-color: rgb(255, 135, 135);
+}
+
+
+/* debug-main */
+.debug > .main-container {
+    border: 1px dashed #f00;
+    background-color: rgb(255, 135, 135);
+}
+
+/* debug-footer */
+.debug > .footer-container {
+    border: 1px dashed #f00;
+    background-color: rgb(255, 135, 135);
+}
+/* debug main */
+.debug > main > .partecipants-container {
+    border: 1px dashed #f00;
+    background-color: rgb(255, 135, 135);
+}
+
+.debug > main > .partecipants-container > .single-partecipant {
+    border: 1px dashed #f00;
+    background-color: rgb(200, 135, 135);
+}

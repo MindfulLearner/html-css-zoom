@@ -10,4 +10,7 @@ Consigli
 
 ## TASKS
 
-- 2  1 layout usare vh etc.. 
+IMPORTANTE IN  MAIN  DA SISTEMARE 
+BISOGNA TOGLIERE 2.5 PX MARGIN DA  SINISTRA EDESTRA
+
+aggiiungo overflow
