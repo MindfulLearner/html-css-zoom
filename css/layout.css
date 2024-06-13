@@ -1,0 +1,109 @@
+
+/* BG COLOR */
+body {
+    background-color: black;
+}
+
+/* HEADER */
+.header-container {
+    height: 60px;
+}
+
+.function-buttons {
+    display: flex;
+    justify-content: end;
+}
+
+/* MAIN */
+.main-container {
+    min-height: calc(100vh - 160px);
+}
+
+
+
+
+/* FOOTER */
+.footer-container {
+    height: 100px;
+    background-color: rgb(43, 43, 43);
+}
+
+footer > .footer-function-buttons {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer > .footer-function-buttons > .input-output-controls {
+    display: flex;
+    justify-content: space-between;
+    width: 8%;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.bottone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer i {
+    font-size: 25px;
+    color: white;
+}
+
+footer div {
+    margin-top: 4px;
+    color: white;
+    font-size: 12px;
+
+}
+
+
+footer > .footer-function-buttons > .input-funzioni-controls {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    align-items: center;
+    margin-left: 10px;
+}
+
+
+footer > .footer-function-buttons >  .input-end-controls {
+    display: flex;
+    justify-content: center;
+    width: 8%;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(112, 112, 112);
+    font-weight: bolder;
+}
+
+
+
+
+
+
+/*
+DEBUG
+*/
+/* debug-header */
+.debug > .header-container {
+    border: 1px dashed #f00;
+    background-color: rgb(255, 135, 135);
+}
+
+
+/* debug-main */
+.debug > .main-container {
+    border: 1px dashed #f00;
+    background-color: rgb(255, 135, 135);
+}
+
+/* debug-footer */
+.debug > .footer-container {
+    border: 1px dashed #f00;
+    background-color: rgb(255, 135, 135);
+}

@@ -15,3 +15,12 @@
         "MARK"
  */
 
+/* Font SETUP */
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.fa-solid.fa-chevron-up {
+    font-size: 10px;
+}

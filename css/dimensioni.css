@@ -1,0 +1,30 @@
+/* header buttons */
+
+.speaker-button{
+    background-color: #5e5e5e;
+    color: white;
+    font-size: 15px;
+    padding: 1px 6px;
+    border-radius: 5px;
+    width: 138px;
+    margin-right: 5px;
+}
+
+.maximize-button {
+    background-color: #5e5e5e;
+    color: white;
+    color: white;
+    font-size: 15px;
+    padding: 1px 6px;
+    border-radius: 5px;
+    width: 26px;
+}
+
+footer .endmeetings-button {
+    color: red;
+    margin-top: 0px;
+}
+
+footer .bottone.sharescreen-button i{
+    color: rgb(0, 124, 0);
+}
